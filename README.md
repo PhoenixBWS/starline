@@ -1,5 +1,5 @@
 ![logo](https://starline.rednexus.dev/imx/git.webp)
-# starline
+# Starline
 Open-source ES6 Module to easily deploy image marquee with HTML5 Canvas.<br />
 Visit [https://starline.rednexus.dev](https://starline.rednexus.dev) to learn more.<br />
 <br />
