@@ -39,37 +39,37 @@ new starline(querySelector, options);
 There are currently 7 options available:
 
 ```
-**mode:** string _("horizontal")_
+mode: string ("horizontal")
 ```
 Sets the animation direction. Accepts "horizontal" or "vertical" as value.
 
 ```
-**speed:** int _(100)_
+speed: int (100)
 ```
 A positive or negative integer representing the movement in pixel/sec. Positive value in "horizontal" mode sets right-to-left animation and in "vertical" mode sets bottom-to-top animation. Negative value reverses the animation direction.
 
 ```
-**hoverPause:** bool _(false)_
+hoverPause: bool (false)
 ```
 If set to true, hovering over the respective canvas will pause the animation.
 
 ```
-**radius:** int _(0)_
+radius: int (0)
 ```
 Accepts a positive integer value. Sets border radius on all the images in pixel.
 
 ```
-**gap:** int _(32)_
+gap: int (32)
 ```
 Accepts a positive integer value. Sets gap between the images in pixel.
 
 ```
-**width:** int|string _(128)_
+width: int|string (128)
 ```
 `Effective only in "vertical" mode.` Accepts a positive integer value (as pixel) or a string with a valid css representation of length to set an equal amount of width for the images and the canvas element itself. Dynamic values (eg. "40%") rely on the nearest relatively set container's dimension. Height for the images are set automatically maintaining the aspect ratio.
 
 ```
-**height:** int|string _(96)_
+height: int|string (96)
 ```
 `Effective only in "horizontal" mode.` Accepts a positive integer value (as pixel) or a string with a valid css representation of length to set an equal amount of height for the images and the canvas element itself. Dynamic values (eg. "25%") rely on the nearest relatively set container's dimension. Width for the images are set automatically maintaining the aspect ratio.
 
