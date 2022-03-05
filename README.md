@@ -1,6 +1,8 @@
 # starline
-ES6 Module to easily deploy image marquee with HTML5 Canvas
-[![version]()]
+Open-source ES6 Module to easily deploy image marquee with HTML5 Canvas.
+Visit [https://starline.rednexus.dev](https://starline.rednexus.dev) to learn more.
+[![size](https://img.shields.io/github/size/PhoenixBWS/starline/dist/starline.min.js?label=minified)]
+[![downloads](https://img.shields.io/github/size/PhoenixBWS/starline/dist/starline.min.js?label=minified)]
 
 ### Basic Integration
 1. Download the main branch and copy the `starline.min.js` from the `dist` directory to your project.
