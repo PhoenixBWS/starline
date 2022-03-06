@@ -79,4 +79,4 @@ height: int|string (96)
 `Effective only in "horizontal" mode.` Accepts a positive integer value (as pixel) or a string with a valid css representation of length to set an equal amount of height for the images and the canvas element itself. Dynamic values (eg. "25%") rely on the nearest relatively set container's dimension. Width for the images are set automatically maintaining the aspect ratio.
 
 ### Donate
-Donation options will be available soon!
+[Donate Securely via Razorpay](https://rzp.io/l/wwBSX4qM)
